@@ -1,0 +1,1 @@
+apidoc -i ./models -o ./doc
